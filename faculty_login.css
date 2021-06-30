@@ -1,0 +1,99 @@
+*
+{
+   margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.al{
+    margin-top: 8rem;
+    border: 1px solid blue;
+    height: 45rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background: white;
+   border-radius: 1em;
+
+}
+.pic{
+	margin-left: 40rem;
+	margin-bottom: -44rem;
+	margin-top: -2rem;
+}
+.ve
+{
+	width:35%;
+    background-color: transparent;
+	color:black;
+	padding:2.5rem;
+	margin-left:7rem;
+	margin-top:6rem;
+    height:70%;
+    border-radius: 2.0rem;
+    box-shadow:0.1rem 0.7rem 0.8rem  grey ;
+}
+
+
+.ve p
+{
+    padding-top: 1.0rem;
+    font-size: 1.2rem;
+}
+.r{
+	position:relative;
+    
+}
+.w{
+	
+	border:none;
+	outline:none;
+	border-bottom:1px solid ;
+	background:transparent;
+	margin-top:1.0rem;
+	padding-left:3.5rem;
+}
+.pa{
+	border:none;
+	outline:none;
+	border-bottom:1px solid black;
+	background:transparent;
+	padding-left:3.5rem;
+    margin-top:1.0rem;
+	
+}
+.r input{
+    width:100%;
+}
+.e
+{
+	position:relative;
+	
+	
+}
+.e input{
+    width:100%;
+}
+
+.lo
+{
+    margin-top:1.0rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+@media(max-width:1382px)
+
+{
+    html{
+        font-size: 65%;
+        width: 100%;
+    }
+    .pic{
+    	margin-left: 70rem;
+    }
+}
+@media(max-width:768px)
+{
+    html{
+        font-size: 45%;
+    }
+}

@@ -1,0 +1,101 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+html{
+    font-size: 62.5%;
+}
+
+.navbar{
+    height: 65px;
+     width: 100%;
+     background-color: #6be0ed;
+     display: flex;     
+}
+img{
+    height: 5vh; 
+    width:4.0rem;
+    border-radius: 2.5rem;
+}
+.logo{
+    padding: 1.8rem;
+    box-sizing: border-box;
+}
+
+.logo_mat{
+    margin-top: 2.3rem;
+}
+.img1{
+    margin-left: 30%;
+    height: 12.0rem;
+    width: 12.0rem;
+    margin-top: 2.0rem;
+}
+.button{
+    height: 89vh;
+    width: 30.0rem;
+    box-shadow: .6rem .6rem .6rem whitesmoke;
+}
+.btn{
+    padding: 1.5rem;
+    width: 14.0rem;
+    margin-top: 20px;
+    cursor: pointer; 
+    border-radius: 2.0rem;  
+    background-color: #6be0ed;  
+}
+.bor{
+    margin-top: 8.0rem;
+    margin-left: 8.0rem;
+   outline: none;
+}
+.but{
+
+    margin-top: 3.0rem;
+    padding: 1.5rem;
+    width: 14.0rem;
+    cursor: pointer;
+    border-radius: 2.0rem;
+    background-color: #6be0ed;
+}
+
+.card1,.card2,.card3,.card4,.card5,.card6{
+    height: 21.0rem;
+    width: 21.0rem;
+    box-shadow: .6rem .6rem .6rem .6rem whitesmoke;
+    margin-left: 2.0rem;
+    box-sizing: border-box;
+    border-radius: 1.0rem;
+    padding: 2.0rem;
+}
+.main{
+    display: flex;
+}
+.cards{
+    padding: 6.0rem;
+    display: flex;
+    margin-left: 9.0rem;
+}
+
+.card4,.card5,.card6{
+    margin-top: 23.0rem;
+}
+
+.card4{
+    margin-left: -670px;
+}
+
+.im{
+    margin-left: 40px;
+    height: 10vh;
+    width: 70px;
+}
+
+
+.head{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    background-color: #6be0ed;
+}
